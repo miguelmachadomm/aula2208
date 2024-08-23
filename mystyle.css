@@ -1,0 +1,20 @@
+/* seletor de elementos */
+body{
+    background-color: lightsalmon;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    color: rgb(3, 61, 90);
+}
+
+/* seletor de classe*/
+.minhaclasse{
+    text-align: center;
+}
+
+/*seletor de ID*/
+#sec1{
+    background-color: chocolate;
+}
+
